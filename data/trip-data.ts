@@ -9,5 +9,4 @@ export const tripStats = [
   { label: "Jours", value: "5" },
   { label: "Photos", value: "200+" },
   { label: "Villes", value: "3" },
-  { label: "Souvenirs", value: "∞" },
 ]
